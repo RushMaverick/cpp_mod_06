@@ -2,6 +2,7 @@
 #define SCALARCONVERTER_HPP
 
 #include <iostream>
+#include <iomanip>
 #include <exception>
 #include <cctype>
 #include <string>
