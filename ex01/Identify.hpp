@@ -2,7 +2,6 @@
 #define IDENTIFY_HPP
 
 #include <cstdint>
-
 struct Data
 {
 	int number;
