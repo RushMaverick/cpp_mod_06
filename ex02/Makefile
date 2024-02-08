@@ -2,7 +2,7 @@
 #                                     CONFIG                                   #
 ################################################################################
 
-NAME        := Serializer
+NAME        := Identify
 CC         := c++
 FLAGS    := -Wall -Wextra -Werror
  
