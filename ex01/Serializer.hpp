@@ -1,5 +1,5 @@
-#ifndef IDENTIFY_HPP
-#define IDENTIFY_HPP
+#ifndef SERIALIZER_HPP
+#define SERIALIZER_HPP
 
 #include <cstdint>
 struct Data

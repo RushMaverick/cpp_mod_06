@@ -1,8 +1,7 @@
-#include "Identify.hpp"
+#include "Serializer.hpp"
 class Serializer;
 
 Serializer::Serializer(){
-//Initialize struct Data
 }
 
 Serializer::~Serializer(){

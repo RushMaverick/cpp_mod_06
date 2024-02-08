@@ -10,7 +10,7 @@ FLAGS    := -Wall -Wextra -Werror
 #                                 PROGRAM'S SRCS                               #
 ################################################################################
 
-SRCS        =      main.cpp Serializer.cpp\
+SRCS        =      main.cpp Identify.cpp\
                           
 OBJS        := ${SRCS:.cpp=.o}
 
